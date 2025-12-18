@@ -1,36 +1,38 @@
-## Hi 👋 I'm Faqih
+# Hi 👋 I'm Faqih
 
-*Turning messy data into slightly less messy data.*
+> **Me:** "My code keeps crashing in several environments."
+> 
+> **Senior Dev:** "Well, don't deploy it to those environments."
+
+Turning messy data into slightly less messy data.
 
 ---
 
 ### 🎯 Current Focus
-- Python (core programming & problem solving)
-- SQL (querying, joins, aggregations)
-- Data fundamentals (data quality, structure, basic pipelines)
+* **Python:** Core programming & problem solving.
+* **SQL:** Querying, joins, aggregations.
+* **Data Fundamentals:** Data quality, structure, and basic pipelines.
 
 ---
 
 ### 🧪 Mini Projects
-- **Tic Tac Toe (Python)**  
-  A simple console-based game built to practice control flow, functions, and basic game logic.
+* **[Tic Tac Toe (Python)]** A simple console-based game built to practice control flow, functions, and basic game logic.
 
 ---
 
 ### 🧭 Learning Approach
-- Prioritizing fundamentals over tools
-- Writing small, focused projects to reinforce concepts
-- Documenting progress through code and notes
+* **Fundamentals First:** Prioritizing core concepts over specific tools.
+* **Small & Focused:** Building small projects to reinforce learning.
+* **Documentation:** Documenting progress through code and notes.
 
 ---
 
-### 🔗 Links
-- GitHub: https://github.com/faqihalamin
-- Blog: https://datadonut.hashnode.dev
-- LinkedIn: https://www.linkedin.com/in/karhomatul-faqih-al-amin-2885ba321
+### 🔗 Let's Connect!
+* **Blog:** [datadonut.hashnode.dev](https://datadonut.hashnode.dev)
+* **LinkedIn:** [Karhomatul Faqih Al Amin](https://www.linkedin.com/in/karhomatul-faqih-al-amin-2885ba321)
+* **GitHub:** [@faqihalamin95](https://github.com/faqihalamin95)
 
 ---
-
 *This profile documents my learning journey and ongoing progress in data engineering.*
 
 <!--
