@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Faqih
 
-I’m a data engineering learner focused on building strong fundamentals and understanding how data systems work from the ground up.
+*Turning messy data into slightly less messy data.*
 
 ---
 
