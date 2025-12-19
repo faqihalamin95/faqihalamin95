@@ -15,8 +15,10 @@ Turning messy data into slightly less messy data.
 
 ---
 
-### 🧪 Mini Projects
-* **[Tic Tac Toe (Python)]** A simple console-based game built to practice control flow, functions, and basic game logic.
+### 🧪 Projects
+**Lv1: Movie Data Pipeline & Foundation Analysis**  
+Build a localized ETL pipeline: clean raw movie CSVs using Python, normalize genres, store in SQLite, and analyze popularity metrics.
+**Repo:** [Lv1 Movie Project](https://github.com/faqihalamin95/movie-genre-analysis)
 
 ---
 
