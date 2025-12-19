@@ -16,9 +16,9 @@ Turning messy data into slightly less messy data.
 ---
 
 ### 🧪 Projects
-**Lv1: Movie Data Pipeline & Foundation Analysis**  
-Build a localized ETL pipeline: clean raw movie CSVs using Python, normalize genres, store in SQLite, and analyze popularity metrics.
-**Repo:** [Lv1 Movie Project](https://github.com/faqihalamin95/movie-genre-analysis)
+* **Lv1: Movie Data Pipeline & Foundation Analysis**  
+  Build a localized ETL pipeline: clean raw movie CSVs using Python, normalize genres, store in SQLite, and analyze popularity metrics.
+  **Repo:** [Lv1 Movie Project](https://github.com/faqihalamin95/movie-genre-analysis)
 
 ---
 
