@@ -30,7 +30,7 @@ Turning messy data into slightly less messy data.
 ---
 
 ### 🔗 Let's Connect!
-* **Blog:** [datadonut.hashnode.dev](https://datadonut.hashnode.dev)
+* **Blog:** [datadonut.netlify.app](https://datadonut.netlify.app)
 * **LinkedIn:** [Karhomatul Faqih Al Amin](https://www.linkedin.com/in/karhomatul-faqih-al-amin-2885ba321)
 * **GitHub:** [@faqihalamin95](https://github.com/faqihalamin95)
 
