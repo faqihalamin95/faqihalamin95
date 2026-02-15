@@ -1,8 +1,4 @@
-# Hi 👋 I'm Faqih
-
-> **Me:** "My code keeps crashing in several environments."
-> 
-> **Senior Dev:** "Well, don't deploy it to those environments."
+# Hi 👋 I'm Faqih Al Amin
 
 Turning messy data into slightly less messy data.
 
@@ -35,8 +31,12 @@ Turning messy data into slightly less messy data.
 * **GitHub:** [@faqihalamin95](https://github.com/faqihalamin95)
 
 ---
-*This profile documents my learning journey and ongoing progress in data engineering.*
 
+> **Me:** "My code keeps crashing in several environments."
+> 
+> **Senior Dev:** "Well, don't deploy it to those environments."
+
+*This profile documents my learning journey and ongoing progress in data engineering.*
 <!--
 **faqihalamin95/faqihalamin95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
