@@ -6,8 +6,8 @@ Turning messy data into slightly less messy data.
 
 ### 🧭 Learning Approach
 * **Fundamentals First:** Prioritizing core concepts over specific tools.
-* **Small & Focused:** Building small projects to reinforce learning.
-* **Documentation:** Documenting progress through code and notes.
+* **Focused:** Building projects to reinforce learning.
+* **Documentation:** Documenting progress through code and blog posts.
 
 ---
 
