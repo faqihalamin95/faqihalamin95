@@ -18,7 +18,7 @@ Turning messy data into slightly less messy data.
   
   **Repo:** [Phase1 Movie Project](https://github.com/faqihalamin95/movie-genre-analysis)
   
-* **Phase2: E-Commerce Data Warehouse Pipeline **
+* **Phase2: E-Commerce Data Warehouse Pipeline**
   
   End-to-end data warehouse pipeline built on a real-world e-commerce dataset.  
   Raw transactional data is ingested and transformed into analytics-ready marts using a layered architecture (raw → staging → foundation → marts) in PostgreSQL.
