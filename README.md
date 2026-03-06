@@ -19,7 +19,7 @@ Turning messy data into slightly less messy data.
 
   It demonstrates dimensional modeling for subscription metrics (MRR, churn, retention, LTV), data quality resilience (schema drift, duplicates, late-arriving data), and gradual scaling from a local PostgreSQL/dbt stack to a cloud pipeline using Snowflake and Airflow.
   
-  **Repo:** [Phase3 Movie Project](https://github.com/faqihalamin95/saas-simulation)
+  **Repo:** [Phase3 SaaS Project](https://github.com/faqihalamin95/saas-simulation)
 
 * **Phase2: E-Commerce Data Warehouse Pipeline**
   
